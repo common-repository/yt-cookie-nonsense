@@ -1,0 +1,8 @@
+.yt-cookie-nonsense { position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%; background:#666; }
+.yt-cookie-nonsense .ycn-video-preview { position:absolute; width:100%; height:100%; cursor:pointer; }
+.yt-cookie-nonsense .ycn-video-preview .ycn-preview-text { position:absolute; top:50%; width:80%; left:10%; transform:translateY(-50%); }
+.yt-cookie-nonsense .ycn-video-preview .ycn-preview-text * { color:#fff; font-size:1rem; }
+.yt-cookie-nonsense .ycn-video-preview .ycn-preview-text h2 { text-align:center; }
+.yt-cookie-nonsense .ycn-video-preview .ycn-preview-text p { text-align:center; }
+.yt-cookie-nonsense .ycn-video-preview .ycn-preview-text .ycn-btn { display:inline-block; margin-top:20px; }
+.yt-cookie-nonsense iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; display:none; }
